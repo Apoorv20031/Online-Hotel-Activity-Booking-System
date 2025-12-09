@@ -20,11 +20,9 @@ Devbag Stayz is a web-based stay management system designed for homestays, resor
 
 | Technology  |    Purpose |
 |-----------  |------------|
-| HTML, CSS, 
-  JavaScript  |Frontend UI |
+| HTML, CSS, JavaScript  |Frontend UI |
 | PHP         | Backend    |
-|MySQL/SQLite
-(Not included)| Database   |
+|MySQL/SQLite (Not included)| Database   |
 | Bootstrap   | Styling    |
 | GitHub      | Versioning |
 
