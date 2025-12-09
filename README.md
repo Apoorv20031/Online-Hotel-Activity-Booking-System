@@ -40,10 +40,9 @@ Devbag Stayz is a web-based stay management system designed for homestays, resor
 📸 **Images Used in the Project**  
 Some UI preview images used during development were **taken from Google** and are **meant only for academic and educational use**, not for commercial purposes.
 ### 📸 Login Page Preview  
-![Login Page Preview](https://raw.githubusercontent.com/Apoorv20031/travel/0741610384beff4bc92f5879157ad10aaf881581/Screenshot%20Home%20Page.png)
-
+![image alt](https://github.com/Apoorv20031/travel/blob/0741610384beff4bc92f5879157ad10aaf881581/Screenshot%20Home%20Page.png)
 ### 📸 User Dashboard  
-![User Dashboard Screenshot](https://raw.githubusercontent.com/Apoorv20031/travel/0741610384beff4bc92f5879157ad10aaf881581/Screenshot%20Dashboard.png)
+![User Dashboard Screenshot](https://github.com/Apoorv20031/travel/blob/0741610384beff4bc92f5879157ad10aaf881581/Screenshot%20Dashboard.png)
 
 > Any images used from Google are only for learning & academic demonstration.
 
